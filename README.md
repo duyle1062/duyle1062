@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [SportSpot](https://github.com/dinhkarate/UIT-VNU_IE104_SS), a university project focused on creating a sports field booking platform.<br>- 🌱 I’m currently learning HTML, CSS, and Node.js to build a solid foundation in full-stack development.<br>- 👯 I’m eager to collaborate on open-source projects, particularly those related to information security.<br>- 🤔 I’m seeking guidance on implementing the login and registration functionalities for my SportSpot project.<br>- 💬 Feel free to ask me about Computer Networking or my experiences in exploring the world of cybersecurity.<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/duyle1062)<br>- 😄 My Japanese name is レ・ドゥック・アイン・ズイ.<br>- ⚡ Fun fact: I’m slightly intrigued by CTF (Capture The Flag) challenges and eager to learn more about them.<br>
+🔭 I’m currently working on [SportSpot](https://github.com/dinhkarate/UIT-VNU_IE104_SS), a university project focused on creating a sports field booking platform.<br>🌱 I’m currently learning HTML, CSS, and Node.js to build a solid foundation in full-stack development.<br>👯 I’m eager to collaborate on open-source projects, particularly those related to information security.<br>🤔 I’m seeking guidance on implementing the login and registration functionalities for my SportSpot project.<br>💬 Feel free to ask me about Computer Networking or my experiences in exploring the world of cybersecurity.<br>📫 How to reach me: [LinkedIn](https://linkedin.com/in/duyle1062)<br>😄 My Japanese name is レ・ドゥック・アイン・ズイ.<br>⚡ Fun fact: I’m slightly intrigued by CTF (Capture The Flag) challenges and eager to learn more about them.<br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duyle1062&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duyle1062&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duyle1062&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duyle1062&icon=0&color=0)](https://visitcount.itsvg.in)
