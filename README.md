@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java to build a solid foundation in full-stack development.<br>👯 I’m eager to collaborate on open-source projects, particularly those related to information security.<br>🤔 I’m seeking guidance on implementing the login and registration functionalities for my SportSpot project.<br>💬 Feel free to ask me about Computer Networking or my experiences in exploring the world of cybersecurity.<br>📫 How to reach me: [LinkedIn](https://linkedin.com/in/duyle1062)<br>😄 My Japanese name is レ・ドゥック・アイン・ズイ.<br>⚡ Fun fact: I’m slightly intrigued by CTF (Capture The Flag) challenges and eager to learn more about them.<br>
+🌱 I’m currently learning Java to build a solid foundation in full-stack development.<br>👯 I’m eager to collaborate on open-source projects, particularly those related to information security.<br>💬 Feel free to ask me about Computer Networking or my experiences in exploring the world of cybersecurity.<br>📫 How to reach me: [LinkedIn](https://linkedin.com/in/duyle1062)<br>😄 My Japanese name is レ・ドゥック・アイン・ズイ.<br>⚡ Fun fact: I’m slightly intrigued by CTF (Capture The Flag) challenges and eager to learn more about them.<br>
 
 
 ## 🌐 Socials:
